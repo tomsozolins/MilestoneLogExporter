@@ -1,0 +1,9 @@
+go.mod
+go.sum
+logs.log
+log-worker.exe
+export.exe
+csv/system.csv
+csv/audit.csv
+*.csv
+
